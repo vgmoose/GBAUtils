@@ -1,6 +1,6 @@
 package org.zzl.minegaming.GBAUtils;
 
-import ini4j.Ini;
+import org.ini4j.Ini;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -5,6 +5,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>GBAUtils</name>
   <description>A GBA Utility Library</description>
+  <dependencies>
+    <dependency>
+      <groupId>org.ini4j</groupId>
+      <artifactId>ini4j</artifactId>
+      <version>0.5.4</version>
+    </dependency>
+  </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
